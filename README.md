@@ -14,7 +14,9 @@ Bu program sizlere siber güvenlikte en çok kullanılan 354 adet tool'u tek tu�
 
 ### Program Nasıl İndirilir?
 
-`cd termux-tools`
+`git clone https://github.com/coderbycanpolat/toplu-tool`
+
+`cd toplu-tool`
 
 `chmod +x termux-tools.py`
 
