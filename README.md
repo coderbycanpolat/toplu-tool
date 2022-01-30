@@ -6,7 +6,7 @@ Bu program sizlere siber güvenlikte en çok kullanılan 354 adet tool'u tek tu�
 
 ---
 
- Telegram : @androedit İletişime Geçin...
+ Telegram : @androedit Kanalına Katılmayı Unutmayın...
 
  
 
